@@ -22,4 +22,3 @@ str에는 공백이 없으며, 첫째 줄에 한 줄로만 주어집니다.
 |HelloWorld!|
 
 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
-
